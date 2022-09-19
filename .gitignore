@@ -1,6 +1,8 @@
 .vscode
 .lapce
 .idea
+.direnv
+result
 lib/
 target/
 core/languages/
